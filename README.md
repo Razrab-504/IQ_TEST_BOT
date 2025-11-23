@@ -264,7 +264,7 @@ MIT License
 
 ## 👤 Автор
 
-Ваше имя — [Telegram](https://t.me/yourusername) | [GitHub](https://github.com/yourusername)
+Razrab-504 — [Telegram](@motivator6438) | [GitHub](https://github.com/Razrab-504)
 
 ---
 
