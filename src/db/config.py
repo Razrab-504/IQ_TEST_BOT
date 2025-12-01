@@ -14,7 +14,7 @@ class Settings(BaseSettings):
         
         
     model_config = SettingsConfigDict(
-        env_file=r"C:\Users\Furqan Service\OneDrive\Рабочий стол\партфолио\IQ_Test_bot\.env",
+        env_file=".env",
         extra="ignore"
         )
     
